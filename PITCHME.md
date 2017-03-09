@@ -15,3 +15,8 @@ An **application architecture** for React and Bootstrap
 #HSLIDE
 
 ![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+
+#HSLIDE
+
+![GitHub Logo](https://goodlogo.com/images/logos/real_madrid_logo_2882.gif)
+Format: ![Alt Text](url)

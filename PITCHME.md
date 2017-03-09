@@ -18,7 +18,7 @@ An **application architecture** for React and Bootstrap
 
 #HSLIDE
 
-![Real Madrid](https://goodlogo.com/images/logos/real_madrid_logo_2882.gif)
+![Real Madrid](http://malaysiachess.com/public/mcf-logo-bgW-300x300.png)
 
 http://github.com - automatic!
 [GitHub](http://github.com)

@@ -1,6 +1,6 @@
-# Flux <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+# Flux <h1>
+## This is an <h2>
+###### This is an <h6>
 
 An **application architecture** for React and Bootstrap
 

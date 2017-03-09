@@ -1,6 +1,6 @@
 # Flux 
 
-An application architecture for React
+An *application architecture* for React
 
 #HSLIDE
 

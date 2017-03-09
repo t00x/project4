@@ -16,7 +16,7 @@ An **application architecture** for React and Bootstrap
 
 #HSLIDE
 
-![Real Madrid](http://malaysiachess.com/public/mcf-logo-bgW-300x300.png)
+![Sukan Malaysia](https://upload.wikimedia.org/wikipedia/commons/8/81/Logo-sukma.jpg)
 
 http://github.com - automatic!
 [GitHub](http://github.com)
